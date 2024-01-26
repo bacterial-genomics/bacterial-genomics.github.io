@@ -1,3 +1,9 @@
+---
+title: Home of the Bacterial-Genomics repositories
+layout: template
+filename: index.md
+--- 
+
 # Bacterial-genomics: Contributing Guidelines
 
 Hi there!
