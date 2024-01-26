@@ -1,6 +1,3 @@
 [submodule "wf-paired-end-illumina-assembly"]
 	path = wf-paired-end-illumina-assembly
 	url = https://github.com/bacterial-genomics/wf-paired-end-illumina-assembly.git
-[submodule "leptospira_type_strains"]
-	path = leptospira_type_strains
-	url = https://github.com/bacterial-genomics/leptospira_type_strains.git
