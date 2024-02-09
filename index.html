@@ -69,10 +69,11 @@
                     <h4>Stay Updated</h4>
                     <h4>Subscribe for updates</h4>
                 </hgroup>
-                <form class="grid">
+                <!-- Updated form action to point to subscribe.php and method to POST -->
+                <form class="grid" action="subscribe.php" method="post">
                     <input type="text" id="firstname" name="firstname" placeholder="Your Name" aria-label="Your Name" required />
                     <input type="email" id="email" name="email" placeholder="Your Email" aria-label="Your Email" required />
-                    <button type="submit" onclick="event.preventDefault()">Subscribe</button>
+                    <button type="submit">Subscribe</button>
                 </form>
             </article>
         </div>
