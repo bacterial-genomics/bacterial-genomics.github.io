@@ -1,3 +1,6 @@
 [submodule "wf-paired-end-illumina-assembly"]
 	path = wf-paired-end-illumina-assembly
 	url = https://github.com/bacterial-genomics/wf-paired-end-illumina-assembly.git
+[submodule "wf-assembly-snps"]
+	path = wf-assembly-snps
+	url = git@github.com:bacterial-genomics/wf-assembly-snps.git
